@@ -1,0 +1,13 @@
+body{
+            background-color:#D2B4DE;
+		}
+		#content{
+			position: center;
+			top: 15%;
+			margin-left: 5%;
+		}
+        #update{
+            border: 1px solid black;
+            margin: 2cm 4cm 1cm 4cm;
+			text-align:center
+        }

@@ -1,0 +1,36 @@
+    @font-face{
+            font-family: myFirstFont;
+            src:url(GOTHAM-BLACK.TTF);
+        }
+        @font-face{
+            font-family:light;
+            src:url(GOTHAM-MEDIUM.TTF);
+        }
+        #ti{
+        	font-family: myFirstFont;
+            font-size:40px;
+        }
+        #pw{
+        	font-family: myFirstFont;
+            font-size:20px;
+        }
+         #un{
+        	font-family: myFirstFont;
+            font-size:20px;
+        }
+
+		body{
+			
+			border: 1px solid black;
+            position: absolute;
+            left: 50%;
+            width: 300px;
+            margin-left: -150px;
+			text-align:center
+
+            background-color:#D2B4DE;
+            background:url(background.jpg);
+            background-repeat: no-repeat;
+            background-position:top left;
+        
+			}

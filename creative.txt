@@ -1,0 +1,16 @@
+link to your running ec2 instance:
+http://ec2-52-43-14-207.us-west-2.compute.amazonaws.com/~renzhou/spring2016-module3-ying-wang-446216-ren-zhou-445125/index.html
+The default user are:
+username: ta
+password:123456
+
+
+Some additional features:
+1.Search function on user, story
+Discription: accepting user input to be searched for in the database, For example, search user’s information and stories.
+2.Profile page
+Discription: List all the stories post by current user, and update password.Once successfully logging in, the user could change his or her current user password to a new password,which would accordingly update his or her existed password in database and then the old password would be removed.
+
+3.Bootstrap framework
+
+Partner for the group portion: Ren Zhou(445125), Ying Wang(446216)
